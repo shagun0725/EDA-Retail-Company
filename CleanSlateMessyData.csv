@@ -1,0 +1,1031 @@
+CustomerID,Name,Age,Gender,City,Salary,Department
+1032,Vikas,51.0,MALE,Lucknow,39122.0,MARKETING
+1110,Amit,56.0,FEMALE,Delhi,54961.0,MARKETING
+1137,Rohan,42.0,FEMALE,Mumbai,70607.0,Marketing
+1089,Neha,29.0,MALE,Jaipur,78574.0,it
+1919,Neha,35.0,MALE,Delhi,118459.0,finance
+1236,Rahul,35.0,Female,Mumbai,89425.0,SALES
+1871,Vikas,40.0,FEMALE,Bangalore,56709.0,hr
+1319,Rakesh,43.0,male,Delhi,107912.0,Hr
+1262,Riya,54.0,female,Mumbai ,45583.0,operations
+1536, Ankit,49.0,MALE,Jaipur,54061.0,it
+1920,Rahul,45.0,male,Delhi,100403.0,finance
+1597,Divya,30.0,Male,Delhi,107722.0,it
+1077,Ankit,51.0,Female,Bangalore,108596.0,Operations
+1108, Ayesha,39.0,Male,Bangalore,49729.0,finance
+1425,Riya,51.0,Male,Jaipur,55109.0,FINANCE
+1585,Sneha,52.0,Male,Hyderabad,38652.0,OPERATIONS
+1854,Rohan,24.0,female,Jaipur ,77953.0,hr
+1665,Rakesh,53.0,MALE,Delhi,71313.0,SALES
+1830,Karan,44.0,MALE,Mumbai,69516.0,MARKETING
+1421, Simran,48.0,Female,Delhi,86842.0,marketing
+1598,Neha,,MALE,Delhi,37356.0,finance
+1459,Ankit,41.0,female,Pune,90618.0,marketing
+1313, Vikas,23.0,FEMALE,Lucknow,113791.0,OPERATIONS
+1650, Simran,,FEMALE,Hyderabad,39955.0,operations
+1366,Simran,59.0,male,Lucknow,110024.0,It
+1322,Sneha,53.0,MALE,Hyderabad,,Sales
+1630,Sanjana,27.0,Male,Lucknow,57854.0,SALES
+1915,Ankit,29.0,female,,75357.0,Sales
+1469,Nikhil,48.0,FEMALE,Jaipur,95821.0,IT
+1599,Ayesha,25.0,female,Chennai,27187.0,HR
+1395,Rahul,25.0,Female,Bangalore,87120.0,HR
+1537,Amit,33.0,male,Chennai,49170.0,sales
+1721,Vikas,27.0,Male,Hyderabad,55075.0,HR
+1334, Priya,24.0,female,Mumbai,41835.0,operations
+1410,Priya,42.0,FEMALE,Bangalore,29117.0,Sales
+1060,Pooja,,FEMALE,Jaipur,94119.0,Hr
+1257,Sneha,58.0,Female,Delhi,67712.0,Sales
+1970,Neha,55.0,Female,Chennai,112959.0,Marketing
+1686,Priya,24.0,FEMALE,Chennai,,Operations
+1343,Rahul,43.0,female,Jaipur,36889.0,FINANCE
+1636,Arjun,38.0,FEMALE,Mumbai ,76925.0,Hr
+1709,Rakesh,29.0,male,Hyderabad ,25192.0,hr
+1011,Riya,43.0,Male,Delhi,84234.0,It
+1486,Amit,34.0,MALE,Bangalore ,69816.0,OPERATIONS
+1210,Rakesh,38.0,MALE,Lucknow,47412.0,finance
+1140,Meera,25.0,FEMALE,Pune,95093.0,OPERATIONS
+1389,Neha,59.0,male,Bangalore,79845.0,It
+1623,Rohan,31.0,male,Chennai,42413.0,finance
+1825,Ayesha,26.0,FEMALE,,42374.0,HR
+1718,,20.0,female,Delhi,55698.0,OPERATIONS
+1846, Meera,27.0,male,Mumbai,35625.0,HR
+1688,Priya,33.0,MALE,Lucknow,68937.0,SALES
+1936,Ayesha,54.0,MALE,Lucknow,101234.0,Finance
+1582,Rakesh,52.0,Female,Chennai,81704.0,Finance
+1383,Kavya,,male,Hyderabad,114116.0,Operations
+1071,Ayesha,22.0,female,Chennai,99671.0,FINANCE
+1261,Meera,43.0,Male,Hyderabad,,marketing
+1801, Meera,32.0,female,Hyderabad,46639.0,OPERATIONS
+1454,Amit,31.0,FEMALE,Delhi,87912.0,Sales
+1592,Arjun,58.0,male,Hyderabad,89450.0,hr
+1907,Divya,41.0,FEMALE,Delhi,69535.0,It
+1785,Rohan,52.0,FEMALE,Chennai,89925.0,Hr
+1214,Rakesh,31.0,female,Chennai,85957.0,MARKETING
+1097,Priya,48.0,female,Jaipur,,Operations
+1680,Pooja,,female,Mumbai,,it
+1850,Sanjana,48.0,FEMALE,,66609.0,IT
+1679,Sneha,55.0,FEMALE,Bangalore,61320.0,Sales
+1881,Pooja,54.0,Male,Delhi,68395.0,Finance
+1193,Rahul,21.0,Female,,113454.0,hr
+1281,Nikhil,53.0,FEMALE,Mumbai,91899.0,sales
+1534,Pooja,,MALE,Bangalore,114160.0,MARKETING
+1683,Sanjana,,FEMALE,Hyderabad,116057.0,Sales
+1618,Nikhil,45.0,male,Chennai,109774.0,operations
+1983,Neha,21.0,female,Chennai,114765.0,Sales
+1911,Ayesha,28.0,Male,Lucknow,37391.0,FINANCE
+1185,Rohan,55.0,female,Mumbai,62544.0,sales
+1031,Ankit,,FEMALE,Chennai,119826.0,marketing
+1329,Kavya,29.0,Female,Mumbai,29986.0,it
+1507,Rohan,24.0,FEMALE,Delhi,52586.0,hr
+1055,Pooja,29.0,Male,Lucknow,,Marketing
+1024,Ayesha,59.0,male,Delhi,55873.0,finance
+1102, Simran,39.0,Male,Delhi,91641.0,Marketing
+1550,Rohan,36.0,MALE,Pune,29458.0,Sales
+1248,Rakesh,27.0,MALE,Lucknow ,119019.0,marketing
+1004,Karan,53.0,FEMALE,Chennai,,HR
+1087,Amit,37.0,FEMALE,Hyderabad,110663.0,hr
+1844,Riya,40.0,FEMALE,Chennai,65172.0,HR
+1953,Riya,44.0,MALE,Jaipur,48993.0,OPERATIONS
+1291,Vikas,48.0,MALE,Hyderabad,59998.0,FINANCE
+1211,Riya,56.0,Female,Mumbai,118526.0,sales
+1803,Sneha,30.0,FEMALE,Chennai,41633.0,SALES
+1175,Neha,30.0,female,Jaipur,,OPERATIONS
+1200,Divya,59.0,Female,Pune ,115453.0,marketing
+1903,Rohan,23.0,female,Mumbai,58457.0,it
+1738,Arjun,39.0,female,Lucknow,29994.0,hr
+1064,Ayesha,,FEMALE,Lucknow,49532.0,It
+1266,Rahul,59.0,female,Lucknow,114285.0,hr
+1232,Nikhil,45.0,MALE,Pune,40088.0,Marketing
+1804,Ayesha,23.0,Female,Hyderabad,59660.0,FINANCE
+1626,,32.0,female,Bangalore,81358.0,Operations
+1569,Rahul,51.0,female,Jaipur,53927.0,Marketing
+1855,Amit,53.0,Male,Lucknow,109481.0,finance
+1040,Meera,37.0,FEMALE,Hyderabad ,,It
+1807,Rohan,23.0,Female,Lucknow,84197.0,it
+1169,Neha,55.0,Male,Mumbai,72068.0,operations
+1591, Nikhil,57.0,female,Hyderabad,56174.0,IT
+1465,Vikas,55.0,MALE,Hyderabad,37905.0,marketing
+1999,Rohan,36.0,Male,Pune,44288.0,HR
+1443,Sneha,49.0,Female,Bangalore,104832.0,Hr
+1909,Pooja,,MALE,Hyderabad,115012.0,SALES
+1067,Riya,43.0,male,Pune,29967.0,MARKETING
+1308,Pooja,20.0,FEMALE,Chennai,75445.0,sales
+1068,Nikhil,42.0,FEMALE,Pune,109289.0,OPERATIONS
+1199,Sneha,44.0,MALE,Pune,63578.0,Operations
+1529,Sneha,22.0,FEMALE,Delhi,107522.0,SALES
+1482,Divya,36.0,female,Lucknow,115009.0,Marketing
+1758,Simran,,FEMALE,Chennai,36064.0,Marketing
+1988,Riya,27.0,male,Chennai,119090.0,Marketing
+1363, Divya,31.0,male,Lucknow,48620.0,HR
+1845,Priya,45.0,MALE,Hyderabad,58722.0,SALES
+1559, Sneha,30.0,Male,Mumbai,116470.0,HR
+1619,Rohan,22.0,Female,Bangalore,36087.0,Operations
+1353,,56.0,Male,Jaipur,25112.0,Sales
+1761,Meera,27.0,female,Lucknow,61945.0,hr
+1930,Sneha,37.0,Female,Pune,71754.0,OPERATIONS
+1293,Sanjana,29.0,FEMALE,Mumbai,37112.0,MARKETING
+1753,Neha,48.0,FEMALE,Jaipur,,Operations
+1101,Amit,24.0,Female,Jaipur,107612.0,operations
+1550,Rohan,36.0,MALE,Pune,29458.0,Sales
+1948,Karan,30.0,female,Chennai,77656.0,Operations
+1809, Priya,38.0,Male,Chennai,,Marketing
+1306,Ayesha,56.0,FEMALE,Pune,29173.0,Hr
+1629, Divya,55.0,Male,Jaipur ,117420.0,It
+1159,Vikas,53.0,MALE,Delhi,107190.0,Finance
+1552,Simran,40.0,FEMALE,Chennai,95843.0,operations
+1003,Ayesha,46.0,female,Bangalore,,OPERATIONS
+1729,Riya,56.0,Female,,101274.0,It
+1209,Ankit,31.0,MALE,Lucknow,51564.0,HR
+1300,Rakesh,49.0,Male,Mumbai,,Sales
+1851,Vikas,45.0,female,Mumbai,68307.0,FINANCE
+1437,Riya,26.0,MALE,Mumbai,43689.0,marketing
+1870,Karan,23.0,FEMALE,Hyderabad,103976.0,Marketing
+1412, Meera,51.0,male,Bangalore,85710.0,Operations
+1615, Vikas,23.0,MALE,Chennai,91736.0,Operations
+1908,,40.0,MALE,Jaipur,41103.0,It
+1913,Rahul,28.0,Male,Mumbai,106159.0,FINANCE
+1997,Meera,21.0,FEMALE,Bangalore ,61182.0,SALES
+1963, Riya,43.0,MALE,Bangalore ,35922.0,OPERATIONS
+1701,Riya,24.0,female,Lucknow,96696.0,Sales
+1779,Vikas,59.0,male,Bangalore,47010.0,It
+1307,,44.0,female,Jaipur,51400.0,Sales
+1281,Nikhil,53.0,FEMALE,Mumbai,91899.0,sales
+1494,Ankit,41.0,Female,,,Sales
+1424,Rahul,21.0,female,Jaipur,41193.0,sales
+1299,Amit,20.0,Male,Bangalore,98155.0,Finance
+1468,Meera,26.0,female,Hyderabad,98903.0,HR
+1885,Ankit,49.0,FEMALE,Lucknow,50939.0,Operations
+1756,Sanjana,42.0,MALE,Delhi,101067.0,finance
+1107,Neha,31.0,FEMALE,Mumbai,40417.0,sales
+1859,Rakesh,34.0,MALE,Delhi,29886.0,IT
+1056,Sneha,38.0,Male,Hyderabad,109388.0,Hr
+1121,Ankit,42.0,Female,Delhi,51536.0,Finance
+1311,Riya,34.0,Male,Hyderabad,70814.0,Marketing
+1026,Simran,20.0,MALE,Hyderabad,91155.0,OPERATIONS
+1073,Vikas,47.0,female,Delhi,52413.0,FINANCE
+1531,Divya,43.0,FEMALE,Chennai,115605.0,hr
+1045, Ayesha,49.0,female,Pune,88069.0,Finance
+1276,Priya,37.0,Male,Pune,109444.0,FINANCE
+1479,Ankit,53.0,male,Chennai ,,marketing
+1315,Nikhil,,Female,Bangalore,109892.0,IT
+1337,Meera,28.0,Female,Chennai,89887.0,finance
+1690,Karan,44.0,Female,Pune,37207.0,HR
+1431,Kavya,53.0,Male,,37360.0,Finance
+1951,Rohan,33.0,female,Bangalore,61607.0,marketing
+1834,Amit,57.0,female,Jaipur,109811.0,IT
+1589,Meera,58.0,Male,Delhi ,43452.0,finance
+1704,Amit,31.0,female,nan ,86744.0,finance
+1328, Nikhil,48.0,Male,Pune,77815.0,HR
+1900,Divya,26.0,male,Bangalore,96246.0,operations
+1604,Neha,50.0,Female,Lucknow,28606.0,Operations
+1928,Arjun,29.0,female,Delhi,62228.0,IT
+1981,Rahul,23.0,female,Chennai,92753.0,finance
+1972,Riya,56.0,MALE,Mumbai,30741.0,operations
+1763,Pooja,20.0,FEMALE,Delhi,31476.0,Operations
+1332,Ayesha,22.0,male,Hyderabad,81408.0,HR
+1061,Sneha,51.0,Female,Delhi,106051.0,HR
+1746,Ayesha,52.0,FEMALE,Jaipur,68442.0,Finance
+1372,Riya,34.0,Female,Lucknow,32846.0,Operations
+1093,Ankit,40.0,Female,Lucknow,28696.0,marketing
+1723,Ayesha,20.0,Female,Pune,67056.0,Finance
+1491,Ankit,21.0,FEMALE,Lucknow,,finance
+1463,Arjun,,FEMALE,Pune,106132.0,marketing
+1219,Nikhil,50.0,male,Jaipur,55106.0,Operations
+1514,Rakesh,44.0,male,Hyderabad,59397.0,MARKETING
+1621,Neha,30.0,Male,Lucknow,48408.0,Marketing
+1426,Pooja,32.0,FEMALE,Pune,44233.0,operations
+1333,Priya,25.0,FEMALE,Pune ,94267.0,SALES
+1860, Kavya,42.0,Female,Jaipur,32485.0,It
+1990,,27.0,female,Jaipur ,77113.0,finance
+1583,Neha,32.0,FEMALE,Hyderabad,92173.0,Hr
+1356,Meera,22.0,MALE,Bangalore,84722.0,FINANCE
+1483,Ayesha,54.0,FEMALE,Chennai,93498.0,Operations
+1546,Amit,43.0,female,Lucknow,43257.0,hr
+1111,Rahul,57.0,FEMALE,Jaipur,37602.0,FINANCE
+1515,Priya,43.0,Male,Lucknow,83671.0,Sales
+1603,Arjun,58.0,FEMALE,Jaipur,46225.0,HR
+1996,Amit,42.0,FEMALE,Lucknow,116051.0,hr
+1508,Ankit,,female,Bangalore,78053.0,MARKETING
+1335,Divya,24.0,Female,Delhi,52798.0,HR
+1849,Vikas,47.0,MALE,Chennai,31859.0,IT
+1295,Amit,44.0,Female,Hyderabad,69814.0,Sales
+1287,Simran,51.0,female,Chennai,50675.0,HR
+1939,Arjun,40.0,FEMALE,Jaipur,50525.0,it
+1448,Sneha,39.0,FEMALE,Jaipur,27994.0,OPERATIONS
+1693,Karan,58.0,Male,Mumbai,35799.0,IT
+1653,Nikhil,39.0,Female,Lucknow,95293.0,Operations
+1969,Sneha,58.0,male,Mumbai ,36094.0,finance
+1278,Ayesha,35.0,female,Pune,46644.0,FINANCE
+1759,Sanjana,42.0,MALE,Pune,101848.0,marketing
+1138,Simran,56.0,MALE,Chennai,32812.0,IT
+1502,Simran,35.0,female,Lucknow,46869.0,It
+1405,Neha,46.0,Female,Delhi,66167.0,FINANCE
+1524,Meera,48.0,MALE,Pune,39924.0,marketing
+1781,Rohan,46.0,female,Hyderabad,112923.0,Operations
+1978,Riya,52.0,Male,Chennai,55257.0,Operations
+1581,Riya,52.0,FEMALE,Pune,101709.0,OPERATIONS
+1238,Karan,36.0,Female,Pune,72135.0,Marketing
+1989,Ayesha,57.0,FEMALE,Hyderabad,55908.0,Hr
+1216, Amit,43.0,male,Bangalore,38156.0,finance
+1895,Ayesha,50.0,female,Mumbai,91629.0,Operations
+1245,Amit,34.0,Male,Delhi,37297.0,HR
+1553,Arjun,37.0,Female,Lucknow ,108961.0,operations
+1838,Pooja,27.0,female,Delhi,76727.0,IT
+1864,Simran,35.0,male,Delhi,101280.0,hr
+1668,Ayesha,58.0,FEMALE,Bangalore,72861.0,SALES
+1622,Neha,37.0,male,Jaipur,25136.0,operations
+1079,Rahul,33.0,male,Lucknow,37297.0,HR
+1030, Divya,42.0,Male,Delhi,59064.0,operations
+1451,Vikas,23.0,MALE,Bangalore,109381.0,it
+1290,Amit,48.0,Female,Mumbai,117268.0,SALES
+1050,Rakesh,48.0,Male,Lucknow,70242.0,Finance
+1671,Meera,37.0,Female,Delhi,69942.0,marketing
+1799,Rohan,32.0,FEMALE,Bangalore,79319.0,HR
+1320,Arjun,30.0,Female,Hyderabad,35578.0,operations
+1166,Priya,47.0,Male,Jaipur,55908.0,Finance
+1931, Arjun,,Male,Hyderabad,53302.0,IT
+1179,Priya,54.0,MALE,Delhi,,finance
+1694,Divya,25.0,Female,Jaipur,96088.0,HR
+1066,Kavya,22.0,FEMALE,Chennai,88227.0,sales
+1142,Ankit,40.0,female,Delhi,68798.0,SALES
+1986,,51.0,female,Chennai,39026.0,It
+1352,Meera,33.0,female,Hyderabad,97827.0,it
+1862,Vikas,40.0,Male,Jaipur,41767.0,FINANCE
+1441,Vikas,47.0,female,Jaipur,27642.0,FINANCE
+1347,Neha,57.0,MALE,Bangalore,36442.0,Hr
+1255,Sneha,54.0,female,Bangalore,56845.0,OPERATIONS
+1695,Ayesha,36.0,Male,Mumbai,53916.0,HR
+1345,Simran,51.0,FEMALE,Pune,36254.0,it
+1222,Priya,42.0,MALE,Bangalore,114272.0,finance
+1236,Rahul,35.0,Female,Mumbai,89425.0,SALES
+1548,Sanjana,30.0,MALE,,110178.0,It
+1500,Rakesh,48.0,male,Mumbai,85128.0,It
+1596,Rakesh,59.0,male,Pune,40954.0,marketing
+1941, Divya,41.0,male,Bangalore,39334.0,OPERATIONS
+1250,Rakesh,48.0,Female,,113499.0,sales
+1661, nan,53.0,Female,Delhi,46113.0,finance
+1382,Neha,24.0,FEMALE,,47931.0,It
+1072,Arjun,52.0,Female,Hyderabad,30722.0,marketing
+1095,Riya,38.0,Female,Pune,45313.0,Hr
+1034,Rakesh,48.0,FEMALE,Bangalore ,93431.0,marketing
+1260,Nikhil,50.0,Male,Delhi,58872.0,IT
+1205,Meera,56.0,MALE,Jaipur,45466.0,Operations
+1360,Pooja,22.0,FEMALE,Pune ,44552.0,FINANCE
+1602,Rakesh,28.0,male,Jaipur,117471.0,sales
+1399, Sneha,59.0,MALE,Bangalore,53230.0,sales
+1078,Vikas,43.0,MALE,Lucknow,91732.0,Marketing
+1085,Riya,33.0,male,Lucknow,80841.0,IT
+1320,Arjun,30.0,Female,Hyderabad,35578.0,operations
+1083,Divya,56.0,FEMALE,Bangalore,44702.0,It
+1948,Karan,30.0,female,Chennai,77656.0,Operations
+1708,Neha,30.0,male,Pune,115932.0,operations
+1539,Arjun,36.0,male,Pune,107214.0,It
+1544,Ankit,41.0,MALE,Hyderabad,117708.0,Operations
+1826, Rahul,34.0,male,Delhi,101674.0,it
+1429,Arjun,59.0,Female,Delhi,26306.0,It
+1310,Sanjana,28.0,Male,Delhi,62564.0,MARKETING
+1006,Ankit,36.0,Female,Pune,72153.0,Finance
+1789,Rohan,35.0,female,Bangalore,67239.0,Operations
+1105,Rahul,22.0,Male,Mumbai,76313.0,it
+1098, Rahul,37.0,Female,Chennai,70740.0,sales
+1297,Meera,39.0,female,Jaipur,75719.0,hr
+1409,Nikhil,50.0,MALE,Lucknow,113229.0,OPERATIONS
+1446,Karan,41.0,Female,Pune,40438.0,FINANCE
+1904,Rohan,26.0,male,Bangalore,110679.0,HR
+1282,Divya,49.0,female,Chennai,67291.0,finance
+1267,Nikhil,45.0,Male,Pune,44456.0,Marketing
+1740,Divya,48.0,MALE,,,Marketing
+1887,Kavya,21.0,Male,Chennai,45324.0,SALES
+1535,Divya,44.0,male,Chennai,68516.0,OPERATIONS
+1433,Divya,54.0,male,Pune,70800.0,SALES
+1912,Ayesha,45.0,FEMALE,Bangalore,53901.0,Sales
+1657,Kavya,39.0,MALE,Jaipur,55954.0,IT
+1119,Arjun,29.0,MALE,Bangalore,89503.0,It
+1406,,57.0,male,Pune ,96291.0,FINANCE
+1251,Priya,37.0,Female,Mumbai,103958.0,finance
+1378,Amit,25.0,Female,Chennai,70270.0,Marketing
+1616,Amit,25.0,Female,Mumbai,106257.0,marketing
+1010,Sneha,25.0,MALE,Mumbai,37867.0,Operations
+1358, Arjun,48.0,MALE,Hyderabad,41523.0,Hr
+1197,Amit,36.0,FEMALE,Mumbai,63402.0,operations
+1632,Vikas,51.0,MALE,Bangalore,115063.0,IT
+1082,Karan,23.0,FEMALE,Hyderabad,65695.0,IT
+1527,Arjun,46.0,FEMALE,Lucknow,26014.0,HR
+1831,Sneha,52.0,Female,Chennai,112796.0,Marketing
+1906,Ankit,32.0,FEMALE,Lucknow,90901.0,sales
+1240,Riya,45.0,Male,Jaipur,103077.0,It
+1324,Meera,26.0,female,Hyderabad,92391.0,HR
+1212,Rahul,36.0,MALE,Pune ,76001.0,Hr
+1847,Rahul,21.0,Male,Pune,92165.0,marketing
+1549,Rahul,32.0,Female,Hyderabad,45025.0,finance
+1498,Karan,36.0,female,Mumbai,87943.0,Sales
+1228,Vikas,37.0,female,Delhi,53884.0,It
+1892,Rahul,49.0,Female,Hyderabad,54063.0,Sales
+1815,Simran,,male,Delhi,66003.0,it
+1829,Neha,48.0,female,Bangalore,91025.0,SALES
+1178,Divya,59.0,Female,Lucknow,32415.0,Sales
+1975,Vikas,22.0,male,Hyderabad,95532.0,Finance
+1434,,25.0,male,Hyderabad,61963.0,Marketing
+1944,Sneha,54.0,Female,Delhi,31644.0,Operations
+1517,Neha,37.0,MALE,Hyderabad ,91897.0,sales
+1351,Arjun,23.0,Male,Pune,41199.0,Finance
+1519,Divya,35.0,female,Lucknow,,marketing
+1008,Karan,44.0,MALE,nan ,38979.0,finance
+1156,Pooja,25.0,male,Chennai,45954.0,marketing
+1945,Karan,47.0,MALE,Delhi,57933.0,it
+1884,Riya,55.0,Female,Lucknow,62701.0,FINANCE
+1330,Simran,53.0,Male,Mumbai,57298.0,Hr
+1543,Vikas,57.0,MALE,Bangalore,116829.0,finance
+1440,Divya,53.0,MALE,Jaipur ,99816.0,hr
+1810,Ayesha,25.0,MALE,Delhi,102299.0,finance
+1901,Ankit,55.0,female,Jaipur,44259.0,sales
+1371,Nikhil,43.0,MALE,Hyderabad,109526.0,FINANCE
+1605,Rahul,51.0,male,Chennai,,It
+1974,Sanjana,55.0,MALE,Lucknow,93798.0,operations
+1594, Amit,34.0,Female,Pune,72406.0,HR
+1877,Divya,23.0,FEMALE,Delhi,91458.0,Operations
+1555,Ayesha,37.0,FEMALE,Lucknow,68427.0,FINANCE
+1754,Pooja,58.0,Male,Mumbai,80480.0,IT
+1874,Amit,38.0,FEMALE,Bangalore,62019.0,it
+1533,Ankit,39.0,male,Lucknow,48248.0,operations
+1867,Rahul,55.0,male,Lucknow,37226.0,It
+1229,Vikas,44.0,Female,Delhi,115421.0,Sales
+1391,Nikhil,59.0,FEMALE,Hyderabad,35561.0,Hr
+1760, Arjun,35.0,Female,Chennai,62548.0,marketing
+1213,,29.0,MALE,Delhi,82649.0,marketing
+1080,Simran,51.0,FEMALE,Hyderabad,93323.0,operations
+1149,Ankit,57.0,Male,Pune,67351.0,SALES
+1303,Riya,,male,Delhi,49618.0,operations
+1449,Pooja,51.0,MALE,Delhi,26813.0,hr
+1362,Sanjana,53.0,female,Mumbai,97525.0,Operations
+1532, Simran,22.0,Male,Chennai,107409.0,FINANCE
+1530,Rohan,48.0,MALE,Mumbai,58458.0,Marketing
+1044,Riya,47.0,FEMALE,Mumbai,35211.0,OPERATIONS
+1674,Ayesha,34.0,Male,Delhi,68370.0,operations
+1134,Priya,45.0,Female,Pune,114390.0,IT
+1576,Riya,29.0,FEMALE,Jaipur,93814.0,marketing
+1312, Rahul,43.0,Female,Lucknow,104747.0,marketing
+1635,Divya,37.0,Male,Chennai,52518.0,Hr
+1568,Ayesha,31.0,Male,Lucknow,113835.0,MARKETING
+1821,Rahul,40.0,Male,Chennai,60740.0,It
+1001,Ankit,26.0,Female,Delhi,118344.0,operations
+1478,Vikas,53.0,FEMALE,Pune,85686.0,it
+1317,Pooja,,female,Hyderabad,95533.0,MARKETING
+1738,Arjun,39.0,female,Lucknow,29994.0,hr
+1573,Simran,47.0,FEMALE,Jaipur,117247.0,Sales
+1381,Divya,47.0,MALE,Lucknow,115239.0,HR
+1833,Karan,54.0,male,Bangalore,81233.0,Marketing
+1973,Pooja,52.0,FEMALE,Jaipur,97374.0,OPERATIONS
+1962,Ayesha,58.0,Male,Bangalore,33210.0,IT
+1173,Priya,30.0,MALE,Delhi,109995.0,sales
+1126,Ankit,28.0,female,Delhi,27871.0,It
+1667,,25.0,female,,94166.0,SALES
+1987,Divya,40.0,MALE,Mumbai ,78535.0,Marketing
+1835,Rahul,45.0,FEMALE,Bangalore,84049.0,HR
+1940,Priya,36.0,female,,104818.0,Operations
+1091,Ankit,52.0,Female,Mumbai,53482.0,It
+1979,Vikas,25.0,MALE,Hyderabad,39211.0,MARKETING
+1182,Sneha,41.0,MALE,Hyderabad,62726.0,OPERATIONS
+1364,Neha,28.0,FEMALE,Chennai,25887.0,finance
+1275,Riya,32.0,male,Chennai,91216.0,IT
+1965,Simran,,FEMALE,,58340.0,MARKETING
+1070,Rakesh,56.0,MALE,Jaipur,68463.0,finance
+1292,Neha,35.0,MALE,Hyderabad,78312.0,SALES
+1132,Ankit,41.0,FEMALE,Mumbai,91668.0,SALES
+1301,Pooja,22.0,Female,Bangalore,66328.0,hr
+1606,Rahul,31.0,female,Mumbai,57828.0,OPERATIONS
+1327,Kavya,39.0,Female,Pune,60531.0,Marketing
+1145,Meera,53.0,MALE,,75574.0,Finance
+1899,Riya,50.0,Male,Jaipur,106570.0,Marketing
+1175,Neha,30.0,female,Jaipur,,OPERATIONS
+1669,Divya,31.0,female,Pune,,IT
+1136,Arjun,,female,Hyderabad,88814.0,IT
+1452,Amit,46.0,Female,Hyderabad,80276.0,Sales
+1165,Ankit,40.0,female,Delhi,39270.0,IT
+1029,Neha,49.0,Male,Chennai,53001.0,It
+1588,Rahul,41.0,female,Delhi,60529.0,it
+1194,Vikas,28.0,FEMALE,,110076.0,finance
+1430, Simran,,MALE,Pune,28849.0,OPERATIONS
+1666, Priya,55.0,FEMALE,Lucknow,,Hr
+1987,Divya,40.0,MALE,Mumbai ,78535.0,Marketing
+1170,Sanjana,45.0,MALE,Hyderabad,44991.0,Marketing
+1526,,34.0,Male,nan ,25869.0,Marketing
+1141,Karan,37.0,Female,Chennai,27179.0,Marketing
+1174,Priya,59.0,female,Jaipur,,MARKETING
+1007,Divya,43.0,female,Lucknow,79110.0,SALES
+1765,Vikas,48.0,male,Hyderabad,115101.0,HR
+1520,Riya,46.0,MALE,Delhi,94906.0,operations
+1679,Sneha,55.0,FEMALE,Bangalore,61320.0,Sales
+1074,Ayesha,27.0,Male,Lucknow,117772.0,sales
+1714,Vikas,48.0,Female,Pune ,75940.0,Hr
+1676,Divya,54.0,female,Mumbai,40534.0,Finance
+1239, nan,42.0,MALE,Pune,55881.0,sales
+1146,Arjun,36.0,male,Pune,72857.0,Sales
+1824,Simran,31.0,male,Hyderabad,101502.0,Finance
+1235,,,FEMALE,Bangalore,35014.0,finance
+1221,Sanjana,36.0,female,Lucknow,41589.0,It
+1215,Pooja,35.0,Male,Bangalore,60517.0,operations
+1689,Arjun,58.0,Male,Bangalore,94724.0,operations
+1133,Divya,23.0,female,Mumbai,105070.0,sales
+1903,Rohan,23.0,female,Mumbai,58457.0,it
+1458, Sanjana,,MALE,Lucknow,,It
+1685,Neha,56.0,female,Delhi,30618.0,IT
+1423,Rahul,,FEMALE,Lucknow,51990.0,MARKETING
+1186,Neha,39.0,FEMALE,Bangalore,74976.0,MARKETING
+1042,Ankit,33.0,Female,Lucknow,101253.0,finance
+1639,Rahul,51.0,MALE,Mumbai ,26700.0,Hr
+1109,Kavya,24.0,FEMALE,Chennai,55099.0,marketing
+1617,Rahul,41.0,MALE,Bangalore,86753.0,Marketing
+1057,Rakesh,53.0,male,Pune,47601.0,HR
+1450,Neha,55.0,FEMALE,Lucknow,118027.0,It
+1774,,49.0,Female,Bangalore,98933.0,SALES
+1590,Arjun,21.0,MALE,Chennai,74393.0,marketing
+1896,Priya,29.0,female,Mumbai,105764.0,IT
+1436,Sanjana,49.0,male,Pune,76707.0,IT
+1025,Divya,26.0,FEMALE,Hyderabad,83627.0,OPERATIONS
+1811,Karan,53.0,male,Bangalore,45176.0,OPERATIONS
+1495,Kavya,30.0,female,Jaipur,115480.0,operations
+1827,Kavya,40.0,male,Bangalore,106471.0,Operations
+1982,Kavya,32.0,female,Chennai,77691.0,Sales
+1929,,44.0,female,Mumbai,48386.0,SALES
+1966,Simran,45.0,female,Lucknow,,HR
+1339,Rohan,39.0,female,Bangalore,42266.0,Operations
+1052,Sneha,22.0,Female,Delhi,112893.0,operations
+1384,Neha,36.0,MALE,Mumbai,80633.0,OPERATIONS
+1540,Rakesh,39.0,FEMALE,Lucknow,110947.0,IT
+1992,Vikas,22.0,Female,Pune,71646.0,Operations
+1661, nan,53.0,Female,Delhi,46113.0,finance
+1964,Karan,38.0,female,Delhi,61289.0,HR
+1265,Sanjana,56.0,MALE,Lucknow,,Marketing
+1955,Kavya,54.0,Male,Delhi,71287.0,marketing
+1742,Amit,54.0,male,Pune,62405.0,FINANCE
+1713,Neha,29.0,female,Bangalore,90048.0,IT
+1445,Arjun,48.0,male,Hyderabad,87260.0,Marketing
+1396,Neha,43.0,Female,Hyderabad,26988.0,Sales
+1542,Riya,28.0,male,Chennai ,44296.0,it
+1496,Neha,46.0,Male,Pune,68764.0,Marketing
+1019,Simran,36.0,female,Pune,112178.0,SALES
+1747,Arjun,33.0,FEMALE,Delhi,76759.0,finance
+1523,Rahul,36.0,male,Bangalore,68326.0,Operations
+1595,Rohan,53.0,Female,Hyderabad,88059.0,SALES
+1480,Kavya,48.0,FEMALE,Mumbai,94212.0,HR
+1368,Rahul,24.0,FEMALE,Pune,111741.0,SALES
+1084,Sanjana,40.0,FEMALE,Hyderabad,50242.0,FINANCE
+1062,Kavya,26.0,female,Jaipur,61777.0,Finance
+1484,Nikhil,32.0,Female,Hyderabad ,54943.0,Finance
+1273,Arjun,41.0,MALE,Pune,44873.0,Sales
+1286,Sanjana,51.0,male,Hyderabad ,66520.0,FINANCE
+1361,Divya,44.0,FEMALE,Bangalore,35808.0,Hr
+1355,Riya,30.0,MALE,Pune,44581.0,FINANCE
+1612,Arjun,30.0,Male,Bangalore,73516.0,Finance
+1279,Rahul,21.0,MALE,Mumbai,87021.0,Operations
+1013,Priya,48.0,FEMALE,Hyderabad,56279.0,marketing
+1183,Karan,24.0,male,Chennai,62044.0,Finance
+1369,Ayesha,30.0,female,Hyderabad,51049.0,finance
+1528,Sneha,26.0,FEMALE,Jaipur,35103.0,Marketing
+1644,Ankit,48.0,male,Delhi,86934.0,sales
+1224, Nikhil,35.0,FEMALE,Jaipur,32214.0,Finance
+1600,Priya,28.0,Female,Jaipur,,IT
+1766,Arjun,51.0,male,Jaipur,27382.0,Marketing
+1707,Divya,50.0,Female,Hyderabad ,55009.0,It
+1571,Nikhil,35.0,female,Bangalore,79122.0,Hr
+1487,Simran,48.0,female,Mumbai,29138.0,Sales
+1466,Sanjana,54.0,Female,Jaipur,49351.0,marketing
+1933,,29.0,FEMALE,Pune,109748.0,Finance
+1637,Arjun,41.0,Male,Mumbai,84848.0,It
+1177, Rahul,58.0,FEMALE,Jaipur,31614.0,Marketing
+1696,Nikhil,44.0,FEMALE,,95463.0,HR
+1656,Neha,47.0,MALE,Delhi,95269.0,Hr
+1614,Priya,35.0,Female,Mumbai,87061.0,Hr
+1457,Rakesh,29.0,Male,Lucknow,103854.0,MARKETING
+1545, Rahul,21.0,MALE,Hyderabad,111664.0,OPERATIONS
+1394,Sneha,52.0,MALE,Jaipur,50917.0,IT
+1164,Simran,45.0,male,Pune,70095.0,hr
+1249,Kavya,42.0,Male,Hyderabad,112599.0,MARKETING
+1663,Priya,21.0,Female,Hyderabad,68939.0,SALES
+1921,Sneha,46.0,Male,Pune ,66258.0,It
+1998,Karan,57.0,FEMALE,Hyderabad,25570.0,FINANCE
+1376,Ankit,45.0,female,Hyderabad,28765.0,finance
+1413,Simran,49.0,Female,Lucknow,119426.0,hr
+1075,Arjun,53.0,Female,Bangalore,106050.0,Sales
+1917,Rohan,27.0,FEMALE,Bangalore,63437.0,sales
+1114,Ankit,53.0,male,Hyderabad,59681.0,Operations
+1501,,40.0,Male,,113056.0,OPERATIONS
+1586,Sanjana,32.0,MALE,Jaipur,30103.0,FINANCE
+1115,Vikas,54.0,male,Pune,116328.0,Finance
+1418, Divya,21.0,female,Bangalore,106882.0,Sales
+1090,Pooja,26.0,male,Bangalore,110744.0,Operations
+1959,Riya,22.0,male,Delhi,100324.0,marketing
+1902, Divya,39.0,Male,Bangalore,60959.0,FINANCE
+1634,Rahul,25.0,Female,Jaipur,31968.0,OPERATIONS
+1678,Neha,27.0,female,Bangalore,109925.0,Marketing
+1012,Amit,52.0,Female,Delhi,50851.0,SALES
+1397,Pooja,38.0,Male,Delhi,,HR
+1558,Neha,51.0,Male,Mumbai,30668.0,Finance
+1043, Simran,21.0,MALE,Chennai,61191.0,Hr
+1168,Sanjana,20.0,female,Jaipur,87433.0,SALES
+1417,Rahul,,female,Mumbai,47547.0,FINANCE
+1788,Rohan,50.0,male,Hyderabad ,34277.0,Hr
+1427,Karan,46.0,FEMALE,,106730.0,marketing
+1918,Rahul,43.0,male,Chennai,60503.0,it
+1741,Ankit,20.0,female,Chennai,68949.0,Sales
+1715, Simran,29.0,female,Delhi,57130.0,Marketing
+1732,Meera,25.0,male,Jaipur,97309.0,Hr
+1258,Rahul,36.0,male,Jaipur,27610.0,OPERATIONS
+1336,Sanjana,42.0,Male,Hyderabad,116649.0,OPERATIONS
+1016,Priya,47.0,female,Pune,101221.0,IT
+1658,Priya,43.0,Female,Lucknow,,HR
+1325,Rahul,23.0,Female,Pune,38794.0,HR
+1790,Nikhil,33.0,female,Pune,72664.0,OPERATIONS
+1223,Rahul,56.0,Female,,111511.0,operations
+1180,Simran,53.0,female,Chennai,68884.0,IT
+1100,Neha,20.0,Male,Jaipur,100731.0,HR
+1522,Arjun,44.0,Female,Delhi,32610.0,operations
+1023,Ayesha,47.0,female,Lucknow,63870.0,Operations
+1357,Nikhil,47.0,FEMALE,Pune,117036.0,Operations
+1697,Karan,47.0,male,Delhi,118500.0,MARKETING
+1897,Kavya,58.0,MALE,Bangalore,45884.0,marketing
+1341,Karan,37.0,female,Bangalore,110988.0,HR
+1432,Priya,43.0,female,Delhi,119767.0,Operations
+1577,Rohan,59.0,FEMALE,Chennai,32296.0,OPERATIONS
+1868,Riya,30.0,Female,Lucknow ,118405.0,hr
+1204,Ankit,22.0,MALE,Delhi,110029.0,OPERATIONS
+1737,Priya,,Male,Jaipur,119636.0,Operations
+1094, Vikas,38.0,male,Delhi,45058.0,FINANCE
+1584,,49.0,Female,Jaipur,56781.0,finance
+1069,Arjun,27.0,female,Hyderabad,45022.0,OPERATIONS
+1651,Neha,50.0,FEMALE,Mumbai,69049.0,sales
+1285,Sanjana,37.0,male,Jaipur ,61176.0,Sales
+1837, Rakesh,,female,Jaipur,57821.0,IT
+1435,Amit,38.0,FEMALE,Chennai,79330.0,SALES
+1154,Rahul,46.0,MALE,Pune,85315.0,Marketing
+1076,Rahul,54.0,FEMALE,Pune,110867.0,It
+1762, nan,40.0,female,Chennai,72937.0,FINANCE
+1447,Sneha,23.0,MALE,Lucknow,73442.0,hr
+1189,Rohan,36.0,MALE,Jaipur,115811.0,OPERATIONS
+1272, Rohan,48.0,Male,Mumbai,58276.0,Finance
+1237,Meera,26.0,MALE,Bangalore,28273.0,SALES
+1488,Meera,48.0,male,Delhi ,116176.0,It
+1560,Amit,44.0,female,Bangalore,72195.0,SALES
+1118,Pooja,36.0,Male,Lucknow,68361.0,operations
+1852,Karan,44.0,FEMALE,Hyderabad,46839.0,Sales
+1513,Vikas,54.0,female,Hyderabad,37625.0,It
+1579,Riya,52.0,male,Chennai,60842.0,Operations
+1828,Rohan,38.0,Male,Mumbai,70913.0,Hr
+1127,Arjun,59.0,MALE,Jaipur,71002.0,operations
+1117,Ayesha,43.0,FEMALE,Bangalore,89789.0,Operations
+1474,Simran,51.0,female,Chennai,75931.0,Hr
+1724, Karan,39.0,Female,Pune ,76831.0,FINANCE
+1058,Simran,52.0,male,Pune,43020.0,marketing
+1705,Rakesh,55.0,Male,Jaipur,40810.0,sales
+1949,Pooja,29.0,MALE,Lucknow,42375.0,operations
+1370,Priya,53.0,MALE,Jaipur,102789.0,It
+1269,Divya,58.0,MALE,Pune,90942.0,Marketing
+1047,Kavya,23.0,Female,Chennai,81746.0,it
+1350,Rohan,,FEMALE,Hyderabad,62327.0,marketing
+1196,Nikhil,59.0,MALE,Bangalore,78459.0,MARKETING
+1103,Riya,30.0,MALE,Jaipur,88811.0,Operations
+1869,Riya,34.0,FEMALE,Pune,47588.0,hr
+1722,Ayesha,31.0,FEMALE,Bangalore,34359.0,IT
+1768,Ayesha,24.0,Male,Hyderabad,112999.0,MARKETING
+1264,Amit,22.0,male,Chennai,32263.0,IT
+1444,Rakesh,56.0,FEMALE,,80561.0,it
+1706,Divya,42.0,male,Hyderabad,30126.0,it
+1305,Rakesh,37.0,female,Hyderabad,43919.0,hr
+1342,Neha,36.0,MALE,Pune,,finance
+1627,Pooja,44.0,Male,Hyderabad,91197.0,IT
+1860, Kavya,42.0,Female,Jaipur,32485.0,It
+1150,Rohan,31.0,Female,Hyderabad,118330.0,sales
+1125,Neha,33.0,Male,Jaipur,81575.0,operations
+1818, Sneha,43.0,male,Chennai,60931.0,Finance
+1856,Sanjana,56.0,Male,,85593.0,sales
+1051,Riya,58.0,MALE,Hyderabad,118783.0,finance
+1354,,53.0,Female,Mumbai,112051.0,Sales
+1967,Sneha,57.0,FEMALE,Chennai,81984.0,Hr
+1143,Rahul,55.0,male,Delhi,99601.0,IT
+1471,Divya,52.0,FEMALE,Lucknow ,109021.0,Finance
+1400,Priya,47.0,male,Delhi,84778.0,marketing
+1654,Ayesha,56.0,Male,Chennai,103581.0,HR
+1321, Ankit,32.0,FEMALE,Mumbai,43624.0,SALES
+1020, Sanjana,39.0,male,Lucknow,66316.0,Hr
+1843, Arjun,22.0,Male,Pune,89551.0,marketing
+1947,Meera,51.0,MALE,Bangalore,58687.0,FINANCE
+1842,Priya,28.0,Female,Bangalore,63712.0,OPERATIONS
+1408,Nikhil,24.0,Female,Mumbai,101361.0,SALES
+1538,Arjun,26.0,Female,Pune,33024.0,SALES
+1880,Arjun,47.0,female,Lucknow,77198.0,IT
+1039,Priya,38.0,female,Hyderabad,110132.0,OPERATIONS
+1176,Rahul,55.0,female,Delhi,52056.0,Hr
+1246,Nikhil,26.0,Female,Delhi,52128.0,it
+1938,,52.0,Male,Bangalore,95130.0,marketing
+1698, Nikhil,21.0,female,Bangalore,101700.0,MARKETING
+1786,Neha,20.0,Female,Delhi,93842.0,It
+1894, Rahul,26.0,Male,Hyderabad,28748.0,Sales
+1155,Divya,50.0,Male,Lucknow,118688.0,It
+1288,Kavya,54.0,male,Mumbai,43287.0,Hr
+1631,Kavya,48.0,Female,Mumbai,101240.0,MARKETING
+1570,Amit,34.0,Male,Jaipur,66094.0,sales
+1775,Sanjana,37.0,Female,Mumbai,47335.0,Operations
+1018,Simran,26.0,female,Chennai,,It
+1128,Ayesha,21.0,female,Mumbai,74812.0,HR
+1323, Arjun,44.0,MALE,Chennai,25389.0,Hr
+1256,Rahul,37.0,male,Chennai ,27800.0,IT
+1993,Pooja,41.0,male,,88185.0,hr
+1627,Pooja,44.0,Male,Hyderabad,91197.0,IT
+1191,Nikhil,28.0,MALE,,59148.0,MARKETING
+1116, Ayesha,41.0,Male,Jaipur,112440.0,it
+1645,Priya,34.0,Male,Jaipur,79316.0,hr
+1607,Rakesh,27.0,MALE,Mumbai,51489.0,It
+1181,Rohan,43.0,FEMALE,Bangalore,41964.0,OPERATIONS
+1302,,33.0,Female,Delhi,95482.0,IT
+1791,Sneha,24.0,Male,Pune,73008.0,marketing
+1744,Kavya,56.0,female,Delhi,67215.0,Marketing
+1755,Ankit,50.0,MALE,Lucknow,63759.0,Marketing
+1716,Kavya,31.0,female,Bangalore,65142.0,hr
+1793,Vikas,47.0,Female,Delhi,25670.0,operations
+1518,Rohan,34.0,Male,Bangalore,51149.0,operations
+1373,Arjun,57.0,Female,Bangalore,115563.0,finance
+1046, Amit,57.0,Male,Chennai,113896.0,MARKETING
+1946,Neha,26.0,MALE,,68469.0,it
+1158,Ayesha,59.0,male,Mumbai,88353.0,finance
+1961,Rahul,30.0,Female,Hyderabad ,95014.0,FINANCE
+1172,Sanjana,40.0,female,Chennai,102801.0,Sales
+1017,Rahul,40.0,Male,Lucknow,114080.0,FINANCE
+1512,Pooja,53.0,FEMALE,Jaipur,92087.0,operations
+1049,Sneha,27.0,Female,Delhi,56312.0,SALES
+1974,Sanjana,55.0,MALE,Lucknow,93798.0,operations
+1875,Neha,53.0,male,Jaipur,69948.0,Hr
+1516,Neha,31.0,Female,,116785.0,OPERATIONS
+1717,Priya,49.0,Male,Jaipur,61468.0,it
+1481,Meera,23.0,MALE,Mumbai,27426.0,Marketing
+1284,Amit,32.0,female,nan ,26538.0,operations
+1750,Amit,43.0,Male,Hyderabad,27581.0,finance
+1866,Amit,44.0,male,Bangalore,76877.0,Hr
+1226,Neha,27.0,Female,Hyderabad,52127.0,marketing
+1027,Meera,51.0,female,Chennai,,HR
+1814,Arjun,42.0,Male,Pune,114791.0,Operations
+1438,Pooja,29.0,Female,Bangalore,54084.0,operations
+1991,Vikas,22.0,Female,Chennai,44610.0,Hr
+1365,Vikas,34.0,FEMALE,Delhi,56802.0,SALES
+1230,Amit,31.0,male,Jaipur,27708.0,Finance
+1038,Vikas,59.0,MALE,Jaipur,33711.0,finance
+1670,Priya,22.0,male,Delhi ,72221.0,Hr
+1514,Rakesh,44.0,male,Hyderabad,59397.0,MARKETING
+1375,Nikhil,24.0,MALE,Delhi,71163.0,sales
+1470,Arjun,30.0,Female,Jaipur,107289.0,SALES
+1137,Rohan,42.0,FEMALE,Mumbai,70607.0,Marketing
+1886,Riya,37.0,FEMALE,Hyderabad,,Finance
+1735,Kavya,21.0,male,Delhi,29434.0,finance
+1757,Ankit,57.0,MALE,Delhi,,Finance
+1195,Rohan,28.0,male,Bangalore,102116.0,Hr
+1890,Rahul,45.0,male,Lucknow,41544.0,Finance
+1900,Divya,26.0,male,Bangalore,96246.0,operations
+1504,Pooja,,MALE,Chennai,46281.0,sales
+1077,Ankit,51.0,Female,Bangalore,108596.0,Operations
+1865,,34.0,male,Chennai,78442.0,It
+1580,Sneha,21.0,female,Jaipur,38261.0,marketing
+1812,Riya,37.0,female,Chennai,69386.0,hr
+1681,Sanjana,42.0,FEMALE,Jaipur,,operations
+1163,,36.0,FEMALE,Pune,116502.0,SALES
+1733, Ayesha,39.0,male,Bangalore,25717.0,OPERATIONS
+1153,Neha,40.0,Female,Chennai,38869.0,HR
+1712,Rahul,35.0,male,Lucknow,64082.0,Hr
+1731,Amit,34.0,MALE,Lucknow,68954.0,hr
+1787,Rahul,38.0,FEMALE,Bangalore,58665.0,Marketing
+1112,Neha,49.0,MALE,Bangalore,34256.0,marketing
+1227,Neha,44.0,female,Lucknow,30141.0,It
+1719,Kavya,24.0,MALE,Chennai,35655.0,sales
+1104,Amit,21.0,FEMALE,Bangalore,77160.0,FINANCE
+1422,Amit,31.0,Female,Chennai ,119803.0,Operations
+1420,Neha,32.0,Female,Pune,89619.0,Operations
+1782,Meera,27.0,MALE,Bangalore,27890.0,Finance
+1587,Vikas,45.0,FEMALE,Delhi,50500.0,MARKETING
+1812,Riya,37.0,female,Chennai,69386.0,hr
+1673,Rahul,40.0,male,Pune,79935.0,finance
+1120,,49.0,MALE,Delhi,59540.0,hr
+1054,Rohan,29.0,Male,,52691.0,HR
+1152,Vikas,41.0,male,Hyderabad,107534.0,it
+1404,Rahul,55.0,Female,Chennai,104650.0,IT
+1985,Sneha,46.0,FEMALE,Mumbai,50613.0,Finance
+1208,Riya,53.0,MALE,Pune,110160.0,Hr
+1659,Karan,51.0,FEMALE,Mumbai,66458.0,SALES
+1925,Pooja,38.0,Male,Mumbai,39908.0,finance
+1794,Amit,21.0,female,Delhi,,Finance
+1009,Karan,26.0,MALE,Bangalore,53328.0,OPERATIONS
+1980,Karan,58.0,male,,30232.0,Operations
+1037,Rakesh,35.0,Male,Mumbai,95902.0,It
+1453,Sanjana,36.0,FEMALE,Delhi ,66243.0,Finance
+1652,Sanjana,43.0,FEMALE,Mumbai,38917.0,Finance
+1254,Vikas,58.0,MALE,Lucknow,36108.0,It
+1304,Kavya,23.0,Male,Hyderabad,59675.0,Hr
+1778,Pooja,27.0,MALE,Chennai,52197.0,Operations
+1572,,41.0,MALE,Mumbai,54493.0,it
+1624,Amit,42.0,Male,Chennai,,FINANCE
+1741,Ankit,20.0,female,Chennai,68949.0,Sales
+1751, Divya,53.0,female,Hyderabad,76717.0,marketing
+1263,Ankit,53.0,MALE,Hyderabad,110774.0,operations
+1611,Sanjana,26.0,FEMALE,Bangalore,27591.0,Marketing
+1298,Rahul,24.0,Male,Chennai,58919.0,operations
+1415,Amit,50.0,MALE,Jaipur ,92054.0,marketing
+1151,Riya,42.0,FEMALE,Mumbai,119319.0,Finance
+1820,Meera,44.0,FEMALE,Bangalore,59693.0,Marketing
+1641,Riya,47.0,Female,Pune,48199.0,FINANCE
+1926,Rahul,55.0,female,Delhi,117617.0,Operations
+1551, Rohan,,female,Pune,88610.0,Sales
+1823,Sanjana,,female,Lucknow,118583.0,It
+1489,Sneha,30.0,MALE,,100945.0,marketing
+1711,Rohan,33.0,male,Delhi,37816.0,SALES
+1148,Amit,44.0,Female,Chennai,64464.0,Marketing
+1147,Vikas,56.0,Female,Bangalore,45700.0,It
+1752,Ayesha,44.0,male,Bangalore,27763.0,operations
+1971,Neha,59.0,female,Pune,58418.0,HR
+1771,,20.0,female,Lucknow,116881.0,FINANCE
+1660,,55.0,Male,Lucknow,114037.0,finance
+1349,Sneha,44.0,Female,Lucknow,78747.0,IT
+1464,Amit,31.0,male,Hyderabad,27093.0,operations
+1326,Riya,27.0,male,Jaipur ,83002.0,SALES
+1187,Meera,38.0,FEMALE,Pune,57252.0,Hr
+1124,Sneha,36.0,female,,103532.0,Marketing
+1889,Rohan,23.0,FEMALE,Bangalore,25203.0,IT
+1609,Sanjana,47.0,Female,Lucknow,94463.0,MARKETING
+1144,Rahul,57.0,male,Jaipur,33275.0,hr
+1522,Arjun,44.0,Female,Delhi,32610.0,operations
+1198,Meera,20.0,FEMALE,Lucknow,82727.0,it
+1610,Karan,39.0,female,Chennai,96832.0,Marketing
+1280,Neha,54.0,Female,Pune,62125.0,Sales
+1294, Kavya,49.0,FEMALE,Bangalore,100225.0,operations
+1401,Meera,,Male,Chennai ,70833.0,finance
+1123,Meera,36.0,Female,Mumbai,88043.0,operations
+1184,Sanjana,52.0,male,Pune,82149.0,FINANCE
+1203,Meera,54.0,Male,Jaipur,102787.0,Sales
+1439,Priya,,female,Pune ,65387.0,Sales
+1247,Amit,28.0,female,Chennai,,Hr
+1416,Rahul,37.0,Male,Jaipur,55949.0,sales
+1808,Divya,57.0,FEMALE,Mumbai,83847.0,it
+1797,Neha,52.0,MALE,Mumbai,69535.0,sales
+1960,Rakesh,58.0,Male,,96196.0,FINANCE
+1800,Priya,28.0,male,,117067.0,operations
+1924,Neha,43.0,FEMALE,Jaipur,99842.0,FINANCE
+1130,Sneha,58.0,female,Hyderabad ,84979.0,Finance
+1638,Sneha,56.0,Male,Lucknow,118422.0,Hr
+1403,Divya,44.0,male,Bangalore,57088.0,It
+1937,,53.0,FEMALE,Lucknow,86114.0,MARKETING
+1802,Karan,50.0,female,Mumbai,89712.0,finance
+1736,,28.0,FEMALE,Pune,74810.0,Marketing
+1950,Riya,28.0,male,Chennai,,Finance
+1220, Meera,40.0,MALE,Mumbai ,90458.0,marketing
+1642,Priya,29.0,female,Delhi,69589.0,Finance
+1952, Rohan,32.0,Male,Delhi,108178.0,FINANCE
+1784,Arjun,23.0,female,Chennai,33026.0,Marketing
+1888,Divya,32.0,male,Pune,47867.0,MARKETING
+1957,Simran,40.0,Male,Mumbai,118308.0,Sales
+1625,Neha,31.0,MALE,Jaipur,109514.0,MARKETING
+1873,Kavya,41.0,MALE,Jaipur,113031.0,hr
+1923,Pooja,23.0,FEMALE,Bangalore,89286.0,hr
+1387,Kavya,48.0,male,Hyderabad,119776.0,IT
+1939,Arjun,40.0,FEMALE,Jaipur,50525.0,it
+1510,Arjun,57.0,male,Hyderabad,108104.0,sales
+1268,Simran,42.0,MALE,Pune,116118.0,Operations
+1853,Ayesha,31.0,female,Chennai ,52216.0,SALES
+1442,Ankit,34.0,female,Jaipur,67137.0,Finance
+1497,Amit,22.0,male,Pune,,sales
+1113,Kavya,28.0,female,Mumbai,111120.0,It
+1692,Nikhil,21.0,Female,Delhi ,57972.0,IT
+1233,Nikhil,45.0,female,Hyderabad,82615.0,Sales
+1905,Amit,,female,Mumbai,,Hr
+1608, Ayesha,27.0,Female,nan ,39387.0,IT
+1672,Rohan,,male,Pune,28453.0,MARKETING
+1374,Rahul,27.0,MALE,Hyderabad,71220.0,hr
+1528,Sneha,26.0,FEMALE,Jaipur,35103.0,Marketing
+1878, Kavya,46.0,FEMALE,Lucknow,52526.0,It
+1234,Amit,51.0,MALE,Mumbai,70046.0,OPERATIONS
+1817,Rohan,20.0,Female,Jaipur,111598.0,marketing
+1677,Sanjana,,Female,Bangalore,110280.0,IT
+1318,Amit,58.0,female,Delhi,81184.0,MARKETING
+1649,Rahul,49.0,Female,Mumbai,66605.0,Hr
+1411,Sanjana,29.0,male,Bangalore,115265.0,IT
+1935,Neha,24.0,Male,Hyderabad,60618.0,FINANCE
+1710,Pooja,22.0,MALE,Hyderabad,61413.0,HR
+1359,Rakesh,28.0,FEMALE,Delhi,91960.0,It
+1259,Kavya,33.0,FEMALE,Bangalore,102603.0,marketing
+1745,Karan,24.0,FEMALE,Bangalore,48185.0,IT
+1628,Pooja,38.0,MALE,Pune,117789.0,IT
+1633,Kavya,37.0,female,Jaipur,41322.0,FINANCE
+1283,Sneha,32.0,male,Pune,60060.0,sales
+1377,Neha,37.0,male,Bangalore,106486.0,OPERATIONS
+1385,Ayesha,59.0,MALE,Pune,105702.0,IT
+1225,Simran,25.0,female,Bangalore,110731.0,Marketing
+1995,Vikas,21.0,Male,Hyderabad,72574.0,MARKETING
+1848,Neha,25.0,MALE,Jaipur,101509.0,Finance
+1473,Sneha,34.0,male,Lucknow ,44874.0,operations
+1348,Ankit,32.0,male,Jaipur,71289.0,finance
+1506,Sanjana,38.0,Male,Pune,,OPERATIONS
+1640,Sanjana,22.0,MALE,Jaipur,118782.0,sales
+1102, Simran,39.0,Male,Delhi,91641.0,Marketing
+1798,Sneha,44.0,Female,Hyderabad,103542.0,HR
+1968,Nikhil,51.0,Male,Delhi,109178.0,marketing
+1942, Divya,56.0,male,Pune ,119715.0,marketing
+1620,Sanjana,33.0,MALE,Hyderabad ,55816.0,IT
+1891,Ayesha,44.0,male,Pune,40899.0,IT
+1836,Rohan,30.0,Male,Lucknow,64178.0,finance
+1646,Amit,52.0,FEMALE,,30520.0,marketing
+1882, Rakesh,,Male,Jaipur,49031.0,operations
+1557,Karan,57.0,male,Jaipur,63506.0,Hr
+2000,Priya,54.0,Female,Bangalore,103824.0,Operations
+1578,Simran,51.0,female,Lucknow,50398.0,it
+1796,Riya,28.0,Male,Chennai ,80612.0,Finance
+1086,Amit,50.0,female,Delhi,92712.0,it
+1243,Riya,26.0,Male,Chennai ,77874.0,marketing
+1699,Riya,54.0,Male,Pune,62158.0,operations
+1910,Meera,47.0,female,Lucknow,103278.0,IT
+1160,Meera,31.0,Male,Delhi,,operations
+1525,Sanjana,27.0,male,Mumbai ,101162.0,Operations
+1036,Kavya,49.0,Female,Delhi ,75081.0,OPERATIONS
+1541,Meera,55.0,Female,Pune,68803.0,MARKETING
+1171,Sanjana,48.0,female,Hyderabad,,Marketing
+1655,Ayesha,23.0,Female,Chennai,89925.0,marketing
+1927,Rohan,58.0,male,Mumbai,75626.0,HR
+1893,Sanjana,30.0,male,Delhi,115880.0,MARKETING
+1883,Riya,35.0,FEMALE,Delhi,100542.0,operations
+1984,Kavya,24.0,female,Chennai ,104768.0,OPERATIONS
+1734,,33.0,Female,Lucknow,36676.0,finance
+1096,Simran,55.0,FEMALE,Chennai,44149.0,MARKETING
+1564, Ayesha,30.0,FEMALE,,35751.0,finance
+1241,Sneha,40.0,Male,Jaipur ,33712.0,It
+1743,,25.0,MALE,Bangalore,59872.0,Marketing
+1575, Nikhil,52.0,Female,Lucknow,56707.0,finance
+1691,Karan,39.0,female,Hyderabad,90774.0,Finance
+1461,Simran,37.0,female,Chennai ,102219.0,marketing
+1554,Arjun,49.0,female,Mumbai,74831.0,MARKETING
+1858,Simran,55.0,female,Delhi,74522.0,MARKETING
+1914,Meera,34.0,Male,Pune,92914.0,IT
+1207,Rahul,57.0,Female,Lucknow,85142.0,IT
+1393,Ankit,32.0,Male,Pune,87875.0,Hr
+1795,,25.0,female,Chennai,42889.0,Finance
+1398,Neha,35.0,female,Lucknow,112728.0,FINANCE
+1767,,,MALE,Hyderabad,74683.0,It
+1884,Riya,55.0,Female,Lucknow,62701.0,FINANCE
+1218,Nikhil,27.0,female,Lucknow,50711.0,SALES
+1005,,46.0,female,nan ,,SALES
+1769,Sneha,41.0,male,Mumbai,70276.0,marketing
+1643,Riya,54.0,Female,Bangalore,57115.0,sales
+1934,Riya,,FEMALE,,88344.0,MARKETING
+1613,Rahul,39.0,MALE,Lucknow,116683.0,it
+1739,Kavya,,Male,Mumbai,29234.0,Sales
+1547,Arjun,27.0,Male,Mumbai,37855.0,IT
+1726,Sanjana,56.0,female,Hyderabad,58272.0,FINANCE
+1954,Ayesha,21.0,MALE,Jaipur,69386.0,OPERATIONS
+1684,Meera,21.0,female,Pune,55049.0,operations
+1099,Nikhil,21.0,Female,Hyderabad,29956.0,FINANCE
+1805,Rohan,53.0,MALE,Hyderabad,93975.0,Sales
+1728,Rahul,31.0,female,Delhi,52048.0,IT
+1574,,39.0,female,Pune,98539.0,Hr
+1407,Sneha,26.0,Male,Pune,90303.0,FINANCE
+1503,Vikas,56.0,FEMALE,Jaipur,30039.0,MARKETING
+1048,Sanjana,20.0,MALE,Delhi,46542.0,OPERATIONS
+1033,Ankit,49.0,female,Pune,49820.0,It
+1780,Neha,31.0,MALE,Bangalore,49123.0,marketing
+1840,Pooja,29.0,male,Bangalore,41999.0,FINANCE
+1201,Amit,44.0,Female,Bangalore,47318.0,OPERATIONS
+1135,Pooja,48.0,MALE,Pune,67998.0,SALES
+1028,Amit,32.0,female,Delhi,28642.0,FINANCE
+1916, Sneha,43.0,Male,Lucknow,111908.0,It
+1231, nan,34.0,Male,Bangalore,43375.0,FINANCE
+1490,Nikhil,,female,,29017.0,It
+1773,Riya,29.0,female,Jaipur,104698.0,FINANCE
+1379,Simran,56.0,male,nan ,100277.0,SALES
+1289, Rohan,58.0,male,Hyderabad,25174.0,it
+1419,Karan,33.0,FEMALE,Chennai ,93136.0,finance
+1675,Pooja,52.0,MALE,Pune,33328.0,sales
+1392,Nikhil,46.0,female,Chennai,41901.0,Marketing
+1593,Kavya,45.0,female,Hyderabad,60436.0,operations
+1499,Karan,47.0,male,Lucknow,79318.0,Sales
+1139,,30.0,male,Mumbai,86844.0,SALES
+1063,Nikhil,48.0,Female,Hyderabad,44710.0,MARKETING
+1472,,25.0,Female,Mumbai,103513.0,hr
+1648,Simran,31.0,Male,Delhi,111465.0,OPERATIONS
+1129,Karan,44.0,female,Jaipur,47626.0,Finance
+1762, nan,40.0,female,Chennai,72937.0,FINANCE
+1521,Nikhil,,Female,,30283.0,HR
+1839,Neha,33.0,Male,,85935.0,it
+1412, Meera,51.0,male,Bangalore,85710.0,Operations
+1065,Riya,20.0,male,,43601.0,SALES
+1813,Divya,32.0,Female,Mumbai,88972.0,Marketing
+1015,Rohan,45.0,Male,Delhi,40449.0,operations
+1157,Simran,46.0,Male,Lucknow,56555.0,SALES
+1041,Ayesha,20.0,female,Delhi,33199.0,Hr
+1493,Pooja,39.0,Male,Delhi ,118863.0,finance
+1380,Nikhil,32.0,female,Jaipur,113278.0,It
+1188,Priya,54.0,MALE,Hyderabad,28832.0,Operations
+1764,Amit,27.0,Female,Bangalore,76756.0,finance
+1217,Ankit,,Male,Delhi,48064.0,Sales
+1922,Priya,56.0,male,Mumbai,58724.0,sales
+1792,Karan,45.0,male,Hyderabad ,39683.0,Finance
+1053,Priya,,male,Delhi,80388.0,OPERATIONS
+1879,Sneha,48.0,male,Pune,98493.0,Sales
+1338,Pooja,54.0,FEMALE,Jaipur,44477.0,it
+1749,Rohan,39.0,male,Mumbai,102535.0,marketing
+1720,Arjun,39.0,MALE,Delhi,72897.0,Finance
+1725, Nikhil,47.0,female,Bangalore,84191.0,marketing
+1296,Rahul,58.0,FEMALE,,110091.0,sales
+1702,Sneha,20.0,male,,86510.0,OPERATIONS
+1252, Amit,50.0,Female,Lucknow ,57920.0,sales
+1727,,56.0,FEMALE,Mumbai ,39671.0,OPERATIONS
+1462,Sanjana,,MALE,Pune,101872.0,hr
+1456,,36.0,female,Delhi ,,Marketing
+1271,Rohan,23.0,male,Bangalore,57934.0,HR
+1816,Neha,30.0,Female,Pune,44996.0,FINANCE
+1863,Priya,42.0,FEMALE,Bangalore ,53453.0,finance
+1270, Kavya,34.0,Male,Hyderabad,38689.0,sales
+1202,Divya,58.0,MALE,Bangalore,100715.0,Operations
+1162,,29.0,FEMALE,Bangalore,105578.0,FINANCE
+1556,Nikhil,50.0,Female,Delhi,118809.0,Hr
+1730, Sanjana,47.0,male,Chennai,50963.0,Hr
+1402,Pooja,32.0,female,Mumbai,47625.0,it
+1703,Amit,59.0,FEMALE,Mumbai ,83692.0,IT
+1477,Simran,45.0,Male,Pune,119574.0,FINANCE
+1822,Meera,34.0,MALE,Bangalore,102241.0,sales
+1772,Ayesha,45.0,Male,Lucknow,51946.0,marketing
+1106,Amit,42.0,female,Mumbai,88232.0,FINANCE
+1566,Sanjana,43.0,female,Mumbai,32352.0,IT
+1390,Simran,53.0,MALE,Chennai,80312.0,HR
+1002,,37.0,FEMALE,Hyderabad,49272.0,it
+1977,Kavya,27.0,female,Hyderabad,60595.0,MARKETING
+1211,Riya,56.0,Female,Mumbai,118526.0,sales
+1562,Meera,57.0,Male,Chennai,49417.0,HR
+1932,Meera,55.0,MALE,Pune,85815.0,marketing
+1081,Riya,35.0,Female,Hyderabad,48816.0,HR
+1206,Vikas,49.0,Female,Jaipur,,hr
+1035,Sneha,48.0,FEMALE,Bangalore,80745.0,SALES
+1943,Sneha,34.0,FEMALE,Pune,87767.0,It
+1776,Simran,36.0,FEMALE,Pune,70095.0,Finance
+1509,Kavya,20.0,female,Delhi ,75489.0,operations
+1428,Simran,36.0,Male,Lucknow,59510.0,IT
+1455,Nikhil,41.0,female,Delhi,85272.0,Hr
+1637,Arjun,41.0,Male,Mumbai,84848.0,It
+1367,Rahul,44.0,Male,Mumbai ,106938.0,IT
+1092,Vikas,42.0,male,Hyderabad,34171.0,finance
+1340,Ayesha,54.0,FEMALE,Hyderabad,111328.0,MARKETING
+1898,Riya,,FEMALE,Hyderabad,50183.0,Operations
+1565,Vikas,41.0,female,Mumbai,71218.0,HR
+1346,Simran,54.0,Male,Delhi,111610.0,sales
+1777,Divya,45.0,FEMALE,Bangalore,104930.0,It
+1242,,41.0,Male,Pune,99704.0,HR
+1014,Simran,41.0,FEMALE,Hyderabad,98402.0,OPERATIONS
+1316,,56.0,MALE,Hyderabad,110842.0,operations
+1601,Pooja,25.0,Male,Delhi,60098.0,marketing
+1388,Meera,22.0,FEMALE,Jaipur,50991.0,FINANCE
+1274,Divya,44.0,male,Chennai,38050.0,finance
+1167,Amit,21.0,female,Hyderabad,40523.0,hr
+1841,Simran,21.0,female,Mumbai,87522.0,SALES
+1021,Pooja,39.0,FEMALE,Hyderabad,88064.0,HR
+1647,,26.0,Male,Jaipur,61455.0,operations
+1819,Divya,26.0,Male,Delhi,,IT
+1485,Neha,58.0,FEMALE,nan ,91395.0,IT
+1372,Riya,34.0,Female,Lucknow,32846.0,Operations
+1505,Simran,25.0,Male,Jaipur,35442.0,Operations
+1832,Arjun,51.0,Female,Delhi,51069.0,Hr
+1244,Meera,33.0,Male,Pune,94087.0,operations
+1567,Kavya,36.0,female,Hyderabad ,104052.0,Finance
+1876,,33.0,male,Pune,90133.0,SALES
+1563,Rakesh,27.0,FEMALE,Bangalore,106982.0,FINANCE
+1994,Meera,25.0,Male,Chennai,,sales
+1687,Rohan,57.0,male,Lucknow,26920.0,SALES
+1958,Arjun,37.0,female,Mumbai,101312.0,sales
+1190,Karan,53.0,FEMALE,Delhi,105437.0,FINANCE
+1783,Priya,44.0,Male,Lucknow,118305.0,Operations
+1976,Divya,28.0,FEMALE,Mumbai,47164.0,SALES
+1700, Sneha,56.0,Female,Delhi,109607.0,Marketing
+1476,Divya,42.0,male,,75516.0,FINANCE
+1682,Pooja,33.0,MALE,Pune,33640.0,it
+1511,Riya,,FEMALE,Delhi,111346.0,Sales
+1059,Priya,42.0,female,Jaipur,33155.0,sales
+1475,Vikas,30.0,female,Hyderabad,32674.0,FINANCE
+1561,,52.0,FEMALE,Lucknow,98233.0,Hr
+1857,Neha,,male,Hyderabad,97075.0,Finance
+1748,Rakesh,31.0,FEMALE,Hyderabad,66153.0,OPERATIONS
+1253,Nikhil,49.0,female,Bangalore,36156.0,marketing
+1022,Nikhil,41.0,MALE,Bangalore,88761.0,FINANCE
+1314,Karan,31.0,Female,Chennai,52962.0,operations
+1460,Neha,45.0,Male,Jaipur,26920.0,MARKETING
+1161,Sanjana,26.0,female,Chennai,71976.0,HR
+1277, Rahul,52.0,MALE,Lucknow,109040.0,MARKETING
+1956,Karan,26.0,MALE,Chennai ,111724.0,Finance
+1192,Nikhil,45.0,FEMALE,Chennai,86240.0,Operations
+1386,Sanjana,51.0,Male,Chennai,76913.0,sales
+1806,Sanjana,57.0,female,Chennai,57172.0,Finance
+1414,Rakesh,58.0,Male,Chennai,119876.0,It
+1492,Arjun,33.0,Male,Chennai,87956.0,Sales
+1344,Riya,22.0,male,Bangalore,49335.0,Operations
+1770,Ayesha,53.0,Male,Delhi,58402.0,hr
+1309,Priya,34.0,Male,Bangalore,95305.0,it
+1662,Rohan,55.0,Female,Chennai,115226.0,Operations
+1131,Arjun,28.0,MALE,Delhi,101057.0,Operations
+1664,Rohan,,male,Bangalore,54345.0,It
+1872, Neha,32.0,female,Hyderabad,72788.0,finance
+1088,Rahul,26.0,Male,Mumbai,117764.0,FINANCE
+1331,Divya,45.0,Male,Lucknow,26481.0,FINANCE
+1467,Sanjana,,female,Chennai,,sales
+1122,Sanjana,51.0,MALE,Bangalore,109700.0,OPERATIONS
+1861,Karan,25.0,male,Mumbai,56455.0,it
